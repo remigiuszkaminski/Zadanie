@@ -1,0 +1,3 @@
+def funkcyjka():
+	print("Papaduruduru")
+
